@@ -1,6 +1,5 @@
 class Solution(object):
     def isValid(s: str) -> bool:
-        
     # Stack to keep track of opening brackets
     stack = []
     
