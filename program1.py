@@ -23,10 +23,6 @@ class Solution(object):
     # Return True if the stack is empty (all brackets matched), otherwise False
     return not stack
 
-# Test cases
-print(isValid("()"))      # Output: True
-print(isValid("()[]{}"))  # Output: True
-print(isValid("(]"))      # Output: False
 
 
 
