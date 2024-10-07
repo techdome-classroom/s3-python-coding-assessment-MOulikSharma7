@@ -1,5 +1,4 @@
 class Solution(object):
-    class Solution:
     def romanToInt(self, s: str) -> int:
         # Define a mapping of Roman numerals to their integer values
         roman_values = {
